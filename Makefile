@@ -19,11 +19,12 @@ $(shell mkdir -p $(OBJ_DIR))
 
 all: $(NAME)
 
-$(OBJ_DIR)/%.o: $(SRC_DIR)%.c gdpr.h
+$(OBJ_DIR)/%.o: $(SRC_DIR)/%.c $(H_DIR)/gdpr.h
 		$(CC) $(FLAGS) -c $< -I $(H_DIR) -o $@
 
 $(NAME): $(OBJ)
 		$(CC) $(FLAGS) -c $(OBJ) -I $(H_DIR) -o $@
+		chmod 775 $(NAME)
 clean:
 		/bin/rm -rf $(OBJ_DIR)/*.o
 		
@@ -32,5 +33,7 @@ fclean: clean
 
 makeobjdir:
 		$(shell mkdir -p $(OBJ_DIR))
+test:
+		./gdpr gdpr.txt
 
 re: clean makeobjdir all

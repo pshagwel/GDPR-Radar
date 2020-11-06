@@ -1,6 +1,10 @@
-#include "../includes/gdpr.h"
+#include "gdpr.h"
 
-int main ()
+//check input file, parsing -> error messages
+//gnl + algorythm
+//return answer in a file answer.txt
+
+int main (int argc, char **argv)
 {
     return (0);
 }
