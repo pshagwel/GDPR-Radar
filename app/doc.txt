@@ -1,0 +1,31 @@
+Rekisterinpitäjä
+Sealmaker Finland Oy
+Isometsäntie 13, 26100 RAUMA
+
+Yhteyshenkilö rekisteriä koskevissa asioissa
+Rami Nieminen
+rami.nieminen@sealmaker.fi
+
+Rekisterin nimi
+Sealmaker Finland Oy:n asiakasrekisteri.
+
+Henkilötietojen käsittelyn tarkoitus
+Asiakassuhteiden hoito ja viestiminen potentiaalisille asiakkaille.
+
+Rekisterin tietosisältö
+Nimi
+Puhelinnumero
+Sähköposti
+Muut tiedot, jotka käyttäjä on itse syöttänyt lomakkeelle verkkosivuilla.
+
+Säännönmukaiset tietolähteet
+Asiakkaiden itsensä itsestään antamat tiedot.
+
+Tietojen säännönmukaiset luovutukset
+Tietoja ei luovuteta ulkopuolisille. Tietoja ei luovuteta EU:n tai ETA:n ulkopuolelle.
+
+Rekisterin suojauksen periaatteet
+Kaikki rekisterin tiedot on tallennettu hallintajärjestelmään ja ne on suojattu ja sijoitettu siten, ettei asiaankuulumattomilla tahoilla ole pääsyä rekisteritietoihin.
+
+Rekisteröidyn oikeudet
+Rekisterissä olevalla henkilöllä on oikeus pyytää rekisterinpitäjältä itseään koskevat henkilötiedot sekä oikeus pyytää kyseisten tietojen oikaisemista tai poistamista.

@@ -28,3 +28,6 @@ The result of the GDPR checker will show up in the file "conclusion.txt".
 
 ## Demo
 Demo compiled program is located in the ./app
+Rebuild demo with command: 
+
+```make app```
