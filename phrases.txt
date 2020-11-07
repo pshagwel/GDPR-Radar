@@ -1,0 +1,20 @@
+Asiakasrekisteri
+tietosuojaseloste
+Rekisterinpitäjä
+Yhteyshenkilö
+Rekisterin nimi
+Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
+Kyseessä olevat henkilötietoryhmät 
+asiakastiedot
+Vastaanottajat ja vastaanottajaryhmät
+Rekisterin tietosisältö
+tietolähteet
+Henkilötietojen säilyttämisaika
+Rekisterin suojauksen periaatteet
+Evästeet
+Kolmannen osapuolen evästeet
+Tarkastusoikeus
+oikeus saada pääsy henkilötietoihin
+Rekisteröidyn oikeudet
+Evästekäytäntö
+henkilötietojen käsittely

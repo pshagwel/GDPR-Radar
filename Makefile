@@ -6,14 +6,15 @@ OBJ_DIR = obj
 
 SRC =	gnl.c \
 		gnl_utils.c \
-		main.c
+		main.c \
+		ft_itoa.c
 
 OBJ = $(addprefix $(OBJ_DIR)/, $(SRC:.c=.o))
 CC = gcc
 FLAGS = -Wall -Wextra -Werror
 FLAGS += -ggdb3
 
-.PHONY: all clean fclean re bonus
+.PHONY: all clean fclean re app
 
 $(shell mkdir -p $(OBJ_DIR))
 
@@ -30,10 +31,15 @@ clean:
 		
 fclean: clean
 		/bin/rm -f $(NAME)
+		/bin/rm -rf app
+		/bin/rm -f conclusion.txt
 
 makeobjdir:
 		$(shell mkdir -p $(OBJ_DIR))
-test:
-		./gdpr gdpr.txt
+app: $(NAME)
+		$(shell mkdir -p "app")
+		$(shell mv gdpr app/gdpr)
+		$(shell cp phrases.txt app/phrases.txt)
+		$(shell cp doc.txt app/doc.txt)
 
 re: clean makeobjdir all

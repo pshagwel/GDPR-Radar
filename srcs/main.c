@@ -1,5 +1,5 @@
 #define CONCLUSION "conclusion.txt"
-#define PHRASES "./srcs/phrases_rus.txt"
+#define PHRASES "phrases.txt"
 #include "gdpr.h"
 
 int main (int argc, char **argv)
@@ -28,6 +28,8 @@ int main (int argc, char **argv)
         perror("");
         exit(1);
     }
+    char *tmp3 = "Missing phrases are:\n\n";
+    fwrite(tmp3, strlen(tmp3), 1, conclusion);
     int all_ph = 0;
     int not_ph = 0;
     while ((len_ph = get_next_line(ph, &phrase)) > 0)
@@ -48,17 +50,33 @@ int main (int argc, char **argv)
             result = strstr(document, phrase);
             if (result)
                 not_found = 0;
-            free(result);
-            result = NULL;
+            free(document);
+            document = NULL;
         }
         if (not_found)
         {
             not_ph++;
+            char *num = ft_itoa(not_ph);
+            fwrite(num, strlen(num), 1, conclusion);
+            free(num);
+            num = NULL;
+            fwrite(". ", 2, 1, conclusion);
             fwrite(phrase, strlen(phrase), 1, conclusion);
             fwrite("\n", 1, 1, conclusion);
         }
+        free(phrase);
+        phrase = NULL;
         close(fd);
     }
+    int sum = (float)(all_ph - ph)/all_ph * 100;
+    char *sum_ch = ft_itoa(sum);
+    char *tmp2 = "\nThe result: ";
+    fwrite(tmp2, strlen(tmp2), 1, conclusion);
+    fwrite(sum_ch, strlen(sum_ch), 1, conclusion);
+    char *tmp = "% of the necessary phrases are included in the document.\n";
+    fwrite(tmp, strlen(tmp), 1, conclusion);
+    free(sum_ch);
+    sum_ch = NULL;
     fclose(conclusion);
     close(ph);
     return (0);
