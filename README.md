@@ -7,7 +7,7 @@ Terminal in MacOS.
 
 ## Build and run the project
 
-Creat a folder and clone the repository:
+Create a folder and clone the repository:
 
 ```git clone https://github.com/pshagwel/GDPR-Radar.git .```
 
@@ -21,7 +21,7 @@ Run the programm with one argument: file name of a tested document with the exte
 
 ## Instructions
 
-The list of phrases is located in ./srcs/phrases.txt.
+The list of phrases is located in "phrases.txt".
 Each phrase should be divided by "\n" and should not contain any spaces.
 The tested document should have an extension "txt".
 The result of the GDPR checker will show up in the file "conclusion.txt".
