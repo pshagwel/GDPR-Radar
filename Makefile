@@ -23,7 +23,7 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c $(H_DIR)/gdpr.h
 		$(CC) $(FLAGS) -c $< -I $(H_DIR) -o $@
 
 $(NAME): $(OBJ)
-		$(CC) $(FLAGS) -c $(OBJ) -I $(H_DIR) -o $@
+		$(CC) $(FLAGS) $(OBJ) -o $@
 		chmod 775 $(NAME)
 clean:
 		/bin/rm -rf $(OBJ_DIR)/*.o

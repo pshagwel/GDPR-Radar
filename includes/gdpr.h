@@ -5,6 +5,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 # include <sys/errno.h>
+# include <string.h>
 # include "gnl.h"
 
 #endif
