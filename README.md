@@ -27,4 +27,4 @@ The tested document should have an extension "txt".
 The result of the GDPR checker will show up in the file "conclusion.txt".
 
 ## Demo
-Demo is located in the ./app
+Demo compiled program is located in the ./app

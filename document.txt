@@ -1,0 +1,72 @@
+Tietosuojaseloste, asiakasrekisteri (päivitetty 14.4.2018)
+
+1. Rekisterin pitäjän nimi ja yhteystiedot
+Rekisterinpitäjän nimi: Satatech Talotekniikka Oy (2575266-3)
+Postiosoite: Hakuninvahe 1, 26100 Rauma
+Yhteyshenkilö: Jukka Otamo, jukka.otamo@satatech.fi, 044-3400525
+
+2. Henkilötietojen käsittelyn tarkoitus ja peruste
+Henkilötietojen käsittelyn tarkoituksena on asiakkuuksien, työtilausten, toimitusten ja laskutuksen hallinta.
+
+3. Rekisterin tietosisältö
+Rekisteriin tallennetaan seuraavat asiakastiedot:
+-nimi
+-postiosoite
+-puhelinnumero ja sähköpostiosoite
+-laskutusosoite
+-y-tunnus
+
+4. Säännön mukaiset tietolähteet
+Tiedot saadaan asiakkaalta itseltään tai internetistä saatavilla olevista tiedoista.
+
+5. Henkilötietojen säilyttäminen ja käsittelyn rajoittaminen
+Henkilötietoja säilytetään sähköisessä järjestelmässä.
+Henkilötietoja säilytetään kulloinkin voimassa olevien kirjanpitolakien määräysten ajan.
+
+6. Henkilötietojen luovutus
+Henkilötietoja ei luovuteta EU:n tai ETA:n ulkopuolelle. Henkilötietoja voidaan luovuttaa kolmansille osapuolille; laskutusoperaattorille, perintäyhtiölle tai työtilauksien yhteistyökumppaneille.
+
+7. Henkilötietojen käsittelyyn liittyvät riskit
+Henkilötietojen käsittelyyn ei liity merkittäviä tietoturvariskejä. Satatech Talotekniikka Oy:n palvelimet sijaitsevat Suomessa.
+Rekisterinpitäjä on varmistunut tietoturvasta suojaamalla rekisterit seuraavassa kohdassa luetelluilla tavoilla.
+Henkilötietojen käsittelijöitä on koulutettu ja ohjeistettu.
+Henkilötietoja käsittelevät vain henkilöt, joilla on siihen oikeus.
+Henkilötietoja käsittelevien henkilöiden kanssa on sovittu salassapidosta.
+
+8. Rekisterin suojaus
+Sähköinen aineisto on suojattu:
+-kulunvalvonta
+-kameravalvonta
+-hälytysjärjestelmä
+-kahdennettu lukitus
+-käyttäjätunnus ja salasana
+-virustentorjunta ja palomuuri
+-tietojen varmuuskopiointi
+
+9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista
+Rekisteröidyllä on oikeus pyytää rekisterinpitäjältä pääsy häntä itseään koskeviin henkilötietoihin sekä oikeus pyytää kyseisten tietojen oikaisemista tai poistamista.
+Pyynnön voi tehdä sähköpostilla info@satatech.fi.
+Henkilötietoja ei poisteta, mikäli rekisterin pitäjällä on voimassa lakien mukainen säilytysvelvollisuus.
+
+10. Muut henkilötietojen käsittelyyn liittyvät oikeudet
+Rekisteröidyllä on tietosuoja-asetuksen 77 artiklan mukaan oikeus tehdä valitus valvontaviranomaiselle, jos rekisteröity katsoo, että henkilötietojen käsittelyssä rikotaan tietosuoja-asetuksia.
+
+11. Tietoturvaloukkauksesta ilmoittaminen
+Rekisterinpitäjä ilmoittaa mahdollisista tietoturvaloukkauksista tietosuoja-asetuksen mukaisesti ilman aiheetonta viivytystä ja mahdollisuuksien mukaan 72 tunnin kuluessa sen ilmitulosta toimivaltaiselle viranomaiselle. Ilmoituksessa kuvataan henkilötietojen tietoturvaloukkaus ja henkilötietojen tietoturvaloukkauksen todennäköiset seuraukset ja toimenpiteet, joita rekisterinpitäjä on ehdottanut tai jotka se on toteuttanut henkilötietojen tietoturvaloukkauksen johdosta.
+EVÄSTEKÄYTÄNNÖT
+
+Eväste (cookie) yleisesti käytössä oleva on pieni tekstitiedosto, jonka internetselain tallentaa käyttäjän laitteelle. Evästeitä käytetään esimerkiksi silloin, kun käyttäjän tietoja halutaan säilyttää tämän siirtyessä internetpalvelun sivulta toiselle. Mikäli et hyväksy evästeiden käyttöä, et voi käyttää sivujamme.
+
+Sivustolla käytetään evästeitä mm. sivuston toiminnallisuuksien mahdollistamiseen sekä mainonnan kohdentamiseen. Käyttäjä voi halutessaan estää tai tyhjentää evästeet selaimen asetusten avulla taikka kieltäytyä mainonnan kohdentamisesta vierailemalla mainonnan kohdentamisessa käytettyjen kumppanien opt out –sivustoilla. Käyttäjän jatkettua sivuston selaamista hänelle annetun informaation ja tarjottujen vaikutusmahdollisuuksien jälkeen, käyttäjä hyväksyy evästeiden asettamisen.
+
+Käyttötarkoitukset
+Käytämme evästeitä palveluidemme toiminnallisuuksien mahdollistamiseen, sivuston käytön analysointiin ja käyttökokemuksen optimointiin, tuotekehitykseen ja raportointiin sekä mainonnan kohdentamiseen. Evästeiden avulla palvelujemme käyttö on käyttäjälle helpompaa ja esitetty mainonta on tarkoituksenmukaisempaa ja käyttäjän todennäköisten mielenkiinnonkohteiden mukaan räätälöityä.
+
+Nettisivumme käyttää Google Analytics –evästeitä. Näiden evästeiden keräämät tiedot siirretään ja tallennetaan Googlen palvelimille, joista osa saattaa sijaita EU:n ulkopuolella ja joihin tässä tapauksessa sovelletaan paikallista tietosuojalainsäädäntöä. Lisätietoja Googlen yksityisyyskäytännöistä ja Google Analyticsin käytöstä: Google Analytics privacy overview.
+
+Sivustomme käyttää myös Facebookin evästeitä. Näiden evästeiden keräämä tieto saatetaan siirtää ja tallentaa näiden toimijoiden palvelimille, jotka saattavat sijaita EU:n ulkopuolella.
+
+Vaikutusmahdollisuudet
+Käyttämällä verkkosivujamme annat suostumuksesi edellä kuvatun kaltaiseen tietojenkäsittelyyn. Voit halutessasi estää evästeiden käytön tai selata sivustoja yksityisellä selauksella (”Private Browsing”, ”Incognito” tai ”InPrivate”) niin, ettei sivuista, joilla olet käynyt, tallenneta tietoja evästeiden avulla. Huomioithan kuitenkin, että monet internet-sivustot eivät toimi kunnolla ilman evästeitä.
+
+Voit tyhjentää evästehistorian verkkoselaimen asetuksista. Tällöin verkkoselaimeen tallennettu tunniste sekä siihen perustuva verkkokäyttäytymisprofiili poistuu. Toimenpide ei estä uusien evästeiden tallentumista selaimeen. Lisätietoja evästeiden poistamisesta ja estämisestä saa käyttämäsi selaimen valmistajan ohjeista.
