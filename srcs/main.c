@@ -1,5 +1,5 @@
 #define CONCLUSION "conclusion.txt"
-#define PHRASES "phrases_rus.txt"
+#define PHRASES "./srcs/phrases_rus.txt"
 #include "gdpr.h"
 
 //check input file, parsing -> error messages
